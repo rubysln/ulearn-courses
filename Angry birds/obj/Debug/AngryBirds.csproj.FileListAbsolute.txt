@@ -1,0 +1,8 @@
+C:\Users\ruby\Desktop\практика\angry birds\bin\Debug\AngryBirds.exe.config
+C:\Users\ruby\Desktop\практика\angry birds\bin\Debug\AngryBirds.exe
+C:\Users\ruby\Desktop\практика\angry birds\bin\Debug\AngryBirds.pdb
+C:\Users\ruby\Desktop\практика\angry birds\bin\Debug\TestingRoom.dll
+C:\Users\ruby\Desktop\практика\angry birds\obj\Debug\AngryBirds.csproj.AssemblyReference.cache
+C:\Users\ruby\Desktop\практика\angry birds\obj\Debug\AngryBirds.csproj.CoreCompileInputs.cache
+C:\Users\ruby\Desktop\практика\angry birds\obj\Debug\AngryBirds.exe
+C:\Users\ruby\Desktop\практика\angry birds\obj\Debug\AngryBirds.pdb

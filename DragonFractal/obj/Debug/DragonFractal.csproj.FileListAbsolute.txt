@@ -1,0 +1,7 @@
+C:\Users\ruby\Desktop\практика\DragonFractal\bin\Debug\DragonFractal.exe.config
+C:\Users\ruby\Desktop\практика\DragonFractal\bin\Debug\DragonFractal.exe
+C:\Users\ruby\Desktop\практика\DragonFractal\bin\Debug\DragonFractal.pdb
+C:\Users\ruby\Desktop\практика\DragonFractal\obj\Debug\DragonFractal.csproj.AssemblyReference.cache
+C:\Users\ruby\Desktop\практика\DragonFractal\obj\Debug\DragonFractal.csproj.CoreCompileInputs.cache
+C:\Users\ruby\Desktop\практика\DragonFractal\obj\Debug\DragonFractal.exe
+C:\Users\ruby\Desktop\практика\DragonFractal\obj\Debug\DragonFractal.pdb

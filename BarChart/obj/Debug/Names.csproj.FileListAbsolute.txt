@@ -1,0 +1,10 @@
+C:\Users\ruby\Desktop\практика\BarChart\bin\Debug\names.txt
+C:\Users\ruby\Desktop\практика\BarChart\bin\Debug\Names.exe.config
+C:\Users\ruby\Desktop\практика\BarChart\bin\Debug\Names.exe
+C:\Users\ruby\Desktop\практика\BarChart\bin\Debug\Names.pdb
+C:\Users\ruby\Desktop\практика\BarChart\bin\Debug\ZedGraph.dll
+C:\Users\ruby\Desktop\практика\BarChart\bin\Debug\ZedGraph.xml
+C:\Users\ruby\Desktop\практика\BarChart\obj\Debug\Names.csproj.AssemblyReference.cache
+C:\Users\ruby\Desktop\практика\BarChart\obj\Debug\Names.csproj.CoreCompileInputs.cache
+C:\Users\ruby\Desktop\практика\BarChart\obj\Debug\Names.exe
+C:\Users\ruby\Desktop\практика\BarChart\obj\Debug\Names.pdb

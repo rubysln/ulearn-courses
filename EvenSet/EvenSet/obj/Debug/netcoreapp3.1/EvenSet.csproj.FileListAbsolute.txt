@@ -1,0 +1,14 @@
+C:\Users\ruby\Desktop\практика\EvenSet\EvenSet\obj\Debug\netcoreapp3.1\EvenSet.csproj.AssemblyReference.cache
+C:\Users\ruby\Desktop\практика\EvenSet\EvenSet\obj\Debug\netcoreapp3.1\EvenSet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruby\Desktop\практика\EvenSet\EvenSet\obj\Debug\netcoreapp3.1\EvenSet.AssemblyInfoInputs.cache
+C:\Users\ruby\Desktop\практика\EvenSet\EvenSet\obj\Debug\netcoreapp3.1\EvenSet.AssemblyInfo.cs
+C:\Users\ruby\Desktop\практика\EvenSet\EvenSet\obj\Debug\netcoreapp3.1\EvenSet.csproj.CoreCompileInputs.cache
+C:\Users\ruby\Desktop\практика\EvenSet\EvenSet\bin\Debug\netcoreapp3.1\EvenSet.exe
+C:\Users\ruby\Desktop\практика\EvenSet\EvenSet\bin\Debug\netcoreapp3.1\EvenSet.deps.json
+C:\Users\ruby\Desktop\практика\EvenSet\EvenSet\bin\Debug\netcoreapp3.1\EvenSet.runtimeconfig.json
+C:\Users\ruby\Desktop\практика\EvenSet\EvenSet\bin\Debug\netcoreapp3.1\EvenSet.runtimeconfig.dev.json
+C:\Users\ruby\Desktop\практика\EvenSet\EvenSet\bin\Debug\netcoreapp3.1\EvenSet.dll
+C:\Users\ruby\Desktop\практика\EvenSet\EvenSet\bin\Debug\netcoreapp3.1\EvenSet.pdb
+C:\Users\ruby\Desktop\практика\EvenSet\EvenSet\obj\Debug\netcoreapp3.1\EvenSet.dll
+C:\Users\ruby\Desktop\практика\EvenSet\EvenSet\obj\Debug\netcoreapp3.1\EvenSet.pdb
+C:\Users\ruby\Desktop\практика\EvenSet\EvenSet\obj\Debug\netcoreapp3.1\EvenSet.genruntimeconfig.cache

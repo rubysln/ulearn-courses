@@ -1,0 +1,13 @@
+C:\Users\ruby\Desktop\практика\CreateClass\CreateClass\bin\Debug\netcoreapp3.1\CreateClass.exe
+C:\Users\ruby\Desktop\практика\CreateClass\CreateClass\bin\Debug\netcoreapp3.1\CreateClass.deps.json
+C:\Users\ruby\Desktop\практика\CreateClass\CreateClass\bin\Debug\netcoreapp3.1\CreateClass.runtimeconfig.json
+C:\Users\ruby\Desktop\практика\CreateClass\CreateClass\bin\Debug\netcoreapp3.1\CreateClass.runtimeconfig.dev.json
+C:\Users\ruby\Desktop\практика\CreateClass\CreateClass\bin\Debug\netcoreapp3.1\CreateClass.dll
+C:\Users\ruby\Desktop\практика\CreateClass\CreateClass\bin\Debug\netcoreapp3.1\CreateClass.pdb
+C:\Users\ruby\Desktop\практика\CreateClass\CreateClass\obj\Debug\netcoreapp3.1\CreateClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruby\Desktop\практика\CreateClass\CreateClass\obj\Debug\netcoreapp3.1\CreateClass.AssemblyInfoInputs.cache
+C:\Users\ruby\Desktop\практика\CreateClass\CreateClass\obj\Debug\netcoreapp3.1\CreateClass.AssemblyInfo.cs
+C:\Users\ruby\Desktop\практика\CreateClass\CreateClass\obj\Debug\netcoreapp3.1\CreateClass.csproj.CoreCompileInputs.cache
+C:\Users\ruby\Desktop\практика\CreateClass\CreateClass\obj\Debug\netcoreapp3.1\CreateClass.dll
+C:\Users\ruby\Desktop\практика\CreateClass\CreateClass\obj\Debug\netcoreapp3.1\CreateClass.pdb
+C:\Users\ruby\Desktop\практика\CreateClass\CreateClass\obj\Debug\netcoreapp3.1\CreateClass.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\ruby\Desktop\практика\GetPoweredArray\GetPoweredArray\bin\Debug\netcoreapp3.1\GetPoweredArray.exe
+C:\Users\ruby\Desktop\практика\GetPoweredArray\GetPoweredArray\bin\Debug\netcoreapp3.1\GetPoweredArray.deps.json
+C:\Users\ruby\Desktop\практика\GetPoweredArray\GetPoweredArray\bin\Debug\netcoreapp3.1\GetPoweredArray.runtimeconfig.json
+C:\Users\ruby\Desktop\практика\GetPoweredArray\GetPoweredArray\bin\Debug\netcoreapp3.1\GetPoweredArray.runtimeconfig.dev.json
+C:\Users\ruby\Desktop\практика\GetPoweredArray\GetPoweredArray\bin\Debug\netcoreapp3.1\GetPoweredArray.dll
+C:\Users\ruby\Desktop\практика\GetPoweredArray\GetPoweredArray\bin\Debug\netcoreapp3.1\GetPoweredArray.pdb
+C:\Users\ruby\Desktop\практика\GetPoweredArray\GetPoweredArray\obj\Debug\netcoreapp3.1\GetPoweredArray.csproj.AssemblyReference.cache
+C:\Users\ruby\Desktop\практика\GetPoweredArray\GetPoweredArray\obj\Debug\netcoreapp3.1\GetPoweredArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruby\Desktop\практика\GetPoweredArray\GetPoweredArray\obj\Debug\netcoreapp3.1\GetPoweredArray.AssemblyInfoInputs.cache
+C:\Users\ruby\Desktop\практика\GetPoweredArray\GetPoweredArray\obj\Debug\netcoreapp3.1\GetPoweredArray.AssemblyInfo.cs
+C:\Users\ruby\Desktop\практика\GetPoweredArray\GetPoweredArray\obj\Debug\netcoreapp3.1\GetPoweredArray.csproj.CoreCompileInputs.cache
+C:\Users\ruby\Desktop\практика\GetPoweredArray\GetPoweredArray\obj\Debug\netcoreapp3.1\GetPoweredArray.dll
+C:\Users\ruby\Desktop\практика\GetPoweredArray\GetPoweredArray\obj\Debug\netcoreapp3.1\GetPoweredArray.pdb
+C:\Users\ruby\Desktop\практика\GetPoweredArray\GetPoweredArray\obj\Debug\netcoreapp3.1\GetPoweredArray.genruntimeconfig.cache

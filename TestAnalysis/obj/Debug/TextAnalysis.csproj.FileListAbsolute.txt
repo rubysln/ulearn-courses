@@ -1,0 +1,12 @@
+C:\Users\ruby\Desktop\практика\TestAnalysis\bin\Debug\HarryPotterText.txt
+C:\Users\ruby\Desktop\практика\TestAnalysis\bin\Debug\TextAnalysis.exe.config
+C:\Users\ruby\Desktop\практика\TestAnalysis\bin\Debug\TextAnalysis.exe
+C:\Users\ruby\Desktop\практика\TestAnalysis\bin\Debug\TextAnalysis.pdb
+C:\Users\ruby\Desktop\практика\TestAnalysis\bin\Debug\nunit.framework.dll
+C:\Users\ruby\Desktop\практика\TestAnalysis\bin\Debug\nunitlite.dll
+C:\Users\ruby\Desktop\практика\TestAnalysis\obj\Debug\TextAnalysis.csproj.AssemblyReference.cache
+C:\Users\ruby\Desktop\практика\TestAnalysis\obj\Debug\TextAnalysis.Properties.Resources.resources
+C:\Users\ruby\Desktop\практика\TestAnalysis\obj\Debug\TextAnalysis.csproj.GenerateResource.cache
+C:\Users\ruby\Desktop\практика\TestAnalysis\obj\Debug\TextAnalysis.csproj.CoreCompileInputs.cache
+C:\Users\ruby\Desktop\практика\TestAnalysis\obj\Debug\TextAnalysis.exe
+C:\Users\ruby\Desktop\практика\TestAnalysis\obj\Debug\TextAnalysis.pdb

@@ -1,0 +1,8 @@
+C:\Users\ruby\Desktop\практика\billard\bin\Debug\Billiards.exe.config
+C:\Users\ruby\Desktop\практика\billard\bin\Debug\Billiards.exe
+C:\Users\ruby\Desktop\практика\billard\bin\Debug\Billiards.pdb
+C:\Users\ruby\Desktop\практика\billard\bin\Debug\TestingRoom.dll
+C:\Users\ruby\Desktop\практика\billard\obj\Debug\Billiards.csproj.AssemblyReference.cache
+C:\Users\ruby\Desktop\практика\billard\obj\Debug\Billiards.csproj.CoreCompileInputs.cache
+C:\Users\ruby\Desktop\практика\billard\obj\Debug\Billiards.exe
+C:\Users\ruby\Desktop\практика\billard\obj\Debug\Billiards.pdb

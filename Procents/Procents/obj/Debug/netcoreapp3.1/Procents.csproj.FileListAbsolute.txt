@@ -1,0 +1,14 @@
+C:\Users\ruby\Desktop\практика\Procents\Procents\bin\Debug\netcoreapp3.1\Procents.exe
+C:\Users\ruby\Desktop\практика\Procents\Procents\bin\Debug\netcoreapp3.1\Procents.deps.json
+C:\Users\ruby\Desktop\практика\Procents\Procents\bin\Debug\netcoreapp3.1\Procents.runtimeconfig.json
+C:\Users\ruby\Desktop\практика\Procents\Procents\bin\Debug\netcoreapp3.1\Procents.runtimeconfig.dev.json
+C:\Users\ruby\Desktop\практика\Procents\Procents\bin\Debug\netcoreapp3.1\Procents.dll
+C:\Users\ruby\Desktop\практика\Procents\Procents\bin\Debug\netcoreapp3.1\Procents.pdb
+C:\Users\ruby\Desktop\практика\Procents\Procents\obj\Debug\netcoreapp3.1\Procents.csproj.AssemblyReference.cache
+C:\Users\ruby\Desktop\практика\Procents\Procents\obj\Debug\netcoreapp3.1\Procents.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruby\Desktop\практика\Procents\Procents\obj\Debug\netcoreapp3.1\Procents.AssemblyInfoInputs.cache
+C:\Users\ruby\Desktop\практика\Procents\Procents\obj\Debug\netcoreapp3.1\Procents.AssemblyInfo.cs
+C:\Users\ruby\Desktop\практика\Procents\Procents\obj\Debug\netcoreapp3.1\Procents.csproj.CoreCompileInputs.cache
+C:\Users\ruby\Desktop\практика\Procents\Procents\obj\Debug\netcoreapp3.1\Procents.dll
+C:\Users\ruby\Desktop\практика\Procents\Procents\obj\Debug\netcoreapp3.1\Procents.pdb
+C:\Users\ruby\Desktop\практика\Procents\Procents\obj\Debug\netcoreapp3.1\Procents.genruntimeconfig.cache

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetPoweredArray", "GetPoweredArray\GetPoweredArray.csproj", "{A384DEA7-0A81-42C5-9131-33F34CDC8376}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A384DEA7-0A81-42C5-9131-33F34CDC8376}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A384DEA7-0A81-42C5-9131-33F34CDC8376}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A384DEA7-0A81-42C5-9131-33F34CDC8376}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A384DEA7-0A81-42C5-9131-33F34CDC8376}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FF130C36-FAC8-4DC4-97E1-0005DB0777A4}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\ruby\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\ruby\\.nuget\\packages"
+    ]
+  }
+}

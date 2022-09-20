@@ -1,0 +1,14 @@
+C:\Users\ruby\Desktop\практика\Frame\Frame\bin\Debug\netcoreapp3.1\Frame.exe
+C:\Users\ruby\Desktop\практика\Frame\Frame\bin\Debug\netcoreapp3.1\Frame.deps.json
+C:\Users\ruby\Desktop\практика\Frame\Frame\bin\Debug\netcoreapp3.1\Frame.runtimeconfig.json
+C:\Users\ruby\Desktop\практика\Frame\Frame\bin\Debug\netcoreapp3.1\Frame.runtimeconfig.dev.json
+C:\Users\ruby\Desktop\практика\Frame\Frame\bin\Debug\netcoreapp3.1\Frame.dll
+C:\Users\ruby\Desktop\практика\Frame\Frame\bin\Debug\netcoreapp3.1\Frame.pdb
+C:\Users\ruby\Desktop\практика\Frame\Frame\obj\Debug\netcoreapp3.1\Frame.csproj.AssemblyReference.cache
+C:\Users\ruby\Desktop\практика\Frame\Frame\obj\Debug\netcoreapp3.1\Frame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruby\Desktop\практика\Frame\Frame\obj\Debug\netcoreapp3.1\Frame.AssemblyInfoInputs.cache
+C:\Users\ruby\Desktop\практика\Frame\Frame\obj\Debug\netcoreapp3.1\Frame.AssemblyInfo.cs
+C:\Users\ruby\Desktop\практика\Frame\Frame\obj\Debug\netcoreapp3.1\Frame.csproj.CoreCompileInputs.cache
+C:\Users\ruby\Desktop\практика\Frame\Frame\obj\Debug\netcoreapp3.1\Frame.dll
+C:\Users\ruby\Desktop\практика\Frame\Frame\obj\Debug\netcoreapp3.1\Frame.pdb
+C:\Users\ruby\Desktop\практика\Frame\Frame\obj\Debug\netcoreapp3.1\Frame.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\ruby\Desktop\практика\Contacts\Contacts\bin\Debug\netcoreapp3.1\Contacts.exe
+C:\Users\ruby\Desktop\практика\Contacts\Contacts\bin\Debug\netcoreapp3.1\Contacts.deps.json
+C:\Users\ruby\Desktop\практика\Contacts\Contacts\bin\Debug\netcoreapp3.1\Contacts.runtimeconfig.json
+C:\Users\ruby\Desktop\практика\Contacts\Contacts\bin\Debug\netcoreapp3.1\Contacts.runtimeconfig.dev.json
+C:\Users\ruby\Desktop\практика\Contacts\Contacts\bin\Debug\netcoreapp3.1\Contacts.dll
+C:\Users\ruby\Desktop\практика\Contacts\Contacts\bin\Debug\netcoreapp3.1\Contacts.pdb
+C:\Users\ruby\Desktop\практика\Contacts\Contacts\obj\Debug\netcoreapp3.1\Contacts.csproj.AssemblyReference.cache
+C:\Users\ruby\Desktop\практика\Contacts\Contacts\obj\Debug\netcoreapp3.1\Contacts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruby\Desktop\практика\Contacts\Contacts\obj\Debug\netcoreapp3.1\Contacts.AssemblyInfoInputs.cache
+C:\Users\ruby\Desktop\практика\Contacts\Contacts\obj\Debug\netcoreapp3.1\Contacts.AssemblyInfo.cs
+C:\Users\ruby\Desktop\практика\Contacts\Contacts\obj\Debug\netcoreapp3.1\Contacts.csproj.CoreCompileInputs.cache
+C:\Users\ruby\Desktop\практика\Contacts\Contacts\obj\Debug\netcoreapp3.1\Contacts.dll
+C:\Users\ruby\Desktop\практика\Contacts\Contacts\obj\Debug\netcoreapp3.1\Contacts.pdb
+C:\Users\ruby\Desktop\практика\Contacts\Contacts\obj\Debug\netcoreapp3.1\Contacts.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\ruby\source\repos\BenfordsLaw\BenfordsLaw\bin\Debug\netcoreapp3.1\BenfordsLaw.exe
+C:\Users\ruby\source\repos\BenfordsLaw\BenfordsLaw\bin\Debug\netcoreapp3.1\BenfordsLaw.deps.json
+C:\Users\ruby\source\repos\BenfordsLaw\BenfordsLaw\bin\Debug\netcoreapp3.1\BenfordsLaw.runtimeconfig.json
+C:\Users\ruby\source\repos\BenfordsLaw\BenfordsLaw\bin\Debug\netcoreapp3.1\BenfordsLaw.runtimeconfig.dev.json
+C:\Users\ruby\source\repos\BenfordsLaw\BenfordsLaw\bin\Debug\netcoreapp3.1\BenfordsLaw.dll
+C:\Users\ruby\source\repos\BenfordsLaw\BenfordsLaw\bin\Debug\netcoreapp3.1\BenfordsLaw.pdb
+C:\Users\ruby\source\repos\BenfordsLaw\BenfordsLaw\obj\Debug\netcoreapp3.1\BenfordsLaw.csproj.AssemblyReference.cache
+C:\Users\ruby\source\repos\BenfordsLaw\BenfordsLaw\obj\Debug\netcoreapp3.1\BenfordsLaw.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruby\source\repos\BenfordsLaw\BenfordsLaw\obj\Debug\netcoreapp3.1\BenfordsLaw.AssemblyInfoInputs.cache
+C:\Users\ruby\source\repos\BenfordsLaw\BenfordsLaw\obj\Debug\netcoreapp3.1\BenfordsLaw.AssemblyInfo.cs
+C:\Users\ruby\source\repos\BenfordsLaw\BenfordsLaw\obj\Debug\netcoreapp3.1\BenfordsLaw.csproj.CoreCompileInputs.cache
+C:\Users\ruby\source\repos\BenfordsLaw\BenfordsLaw\obj\Debug\netcoreapp3.1\BenfordsLaw.dll
+C:\Users\ruby\source\repos\BenfordsLaw\BenfordsLaw\obj\Debug\netcoreapp3.1\BenfordsLaw.pdb
+C:\Users\ruby\source\repos\BenfordsLaw\BenfordsLaw\obj\Debug\netcoreapp3.1\BenfordsLaw.genruntimeconfig.cache

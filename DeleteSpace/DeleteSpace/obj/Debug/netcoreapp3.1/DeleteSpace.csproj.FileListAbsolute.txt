@@ -1,0 +1,14 @@
+C:\Users\ruby\Desktop\практика\DeleteSpace\DeleteSpace\bin\Debug\netcoreapp3.1\DeleteSpace.exe
+C:\Users\ruby\Desktop\практика\DeleteSpace\DeleteSpace\bin\Debug\netcoreapp3.1\DeleteSpace.deps.json
+C:\Users\ruby\Desktop\практика\DeleteSpace\DeleteSpace\bin\Debug\netcoreapp3.1\DeleteSpace.runtimeconfig.json
+C:\Users\ruby\Desktop\практика\DeleteSpace\DeleteSpace\bin\Debug\netcoreapp3.1\DeleteSpace.runtimeconfig.dev.json
+C:\Users\ruby\Desktop\практика\DeleteSpace\DeleteSpace\bin\Debug\netcoreapp3.1\DeleteSpace.dll
+C:\Users\ruby\Desktop\практика\DeleteSpace\DeleteSpace\bin\Debug\netcoreapp3.1\DeleteSpace.pdb
+C:\Users\ruby\Desktop\практика\DeleteSpace\DeleteSpace\obj\Debug\netcoreapp3.1\DeleteSpace.csproj.AssemblyReference.cache
+C:\Users\ruby\Desktop\практика\DeleteSpace\DeleteSpace\obj\Debug\netcoreapp3.1\DeleteSpace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruby\Desktop\практика\DeleteSpace\DeleteSpace\obj\Debug\netcoreapp3.1\DeleteSpace.AssemblyInfoInputs.cache
+C:\Users\ruby\Desktop\практика\DeleteSpace\DeleteSpace\obj\Debug\netcoreapp3.1\DeleteSpace.AssemblyInfo.cs
+C:\Users\ruby\Desktop\практика\DeleteSpace\DeleteSpace\obj\Debug\netcoreapp3.1\DeleteSpace.csproj.CoreCompileInputs.cache
+C:\Users\ruby\Desktop\практика\DeleteSpace\DeleteSpace\obj\Debug\netcoreapp3.1\DeleteSpace.dll
+C:\Users\ruby\Desktop\практика\DeleteSpace\DeleteSpace\obj\Debug\netcoreapp3.1\DeleteSpace.pdb
+C:\Users\ruby\Desktop\практика\DeleteSpace\DeleteSpace\obj\Debug\netcoreapp3.1\DeleteSpace.genruntimeconfig.cache

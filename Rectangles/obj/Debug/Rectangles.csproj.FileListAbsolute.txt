@@ -1,0 +1,8 @@
+C:\Users\ruby\Desktop\практика\Rectangles\bin\Debug\Rectangles.exe.config
+C:\Users\ruby\Desktop\практика\Rectangles\bin\Debug\Rectangles.exe
+C:\Users\ruby\Desktop\практика\Rectangles\bin\Debug\Rectangles.pdb
+C:\Users\ruby\Desktop\практика\Rectangles\bin\Debug\TestingRoom.dll
+C:\Users\ruby\Desktop\практика\Rectangles\obj\Debug\Rectangles.csproj.AssemblyReference.cache
+C:\Users\ruby\Desktop\практика\Rectangles\obj\Debug\Rectangles.csproj.CoreCompileInputs.cache
+C:\Users\ruby\Desktop\практика\Rectangles\obj\Debug\Rectangles.exe
+C:\Users\ruby\Desktop\практика\Rectangles\obj\Debug\Rectangles.pdb

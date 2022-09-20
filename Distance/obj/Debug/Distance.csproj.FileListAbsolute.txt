@@ -1,0 +1,8 @@
+C:\Users\ruby\Desktop\практика\Distance\bin\Debug\Distance.exe.config
+C:\Users\ruby\Desktop\практика\Distance\bin\Debug\Distance.exe
+C:\Users\ruby\Desktop\практика\Distance\bin\Debug\Distance.pdb
+C:\Users\ruby\Desktop\практика\Distance\bin\Debug\TestingRoom.dll
+C:\Users\ruby\Desktop\практика\Distance\obj\Debug\Distance.csproj.AssemblyReference.cache
+C:\Users\ruby\Desktop\практика\Distance\obj\Debug\Distance.csproj.CoreCompileInputs.cache
+C:\Users\ruby\Desktop\практика\Distance\obj\Debug\Distance.exe
+C:\Users\ruby\Desktop\практика\Distance\obj\Debug\Distance.pdb

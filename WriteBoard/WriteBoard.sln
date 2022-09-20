@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WriteBoard", "WriteBoard\WriteBoard.csproj", "{E3ED5BA4-13E0-435C-89AF-01549D36D38D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E3ED5BA4-13E0-435C-89AF-01549D36D38D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3ED5BA4-13E0-435C-89AF-01549D36D38D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3ED5BA4-13E0-435C-89AF-01549D36D38D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3ED5BA4-13E0-435C-89AF-01549D36D38D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E5B86686-60BE-44A7-9CE6-54D50B2C3A74}
+	EndGlobalSection
+EndGlobal

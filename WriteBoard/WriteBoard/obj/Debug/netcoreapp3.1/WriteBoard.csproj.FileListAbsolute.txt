@@ -1,0 +1,14 @@
+C:\Users\ruby\Desktop\практика\WriteBoard\WriteBoard\bin\Debug\netcoreapp3.1\WriteBoard.exe
+C:\Users\ruby\Desktop\практика\WriteBoard\WriteBoard\bin\Debug\netcoreapp3.1\WriteBoard.deps.json
+C:\Users\ruby\Desktop\практика\WriteBoard\WriteBoard\bin\Debug\netcoreapp3.1\WriteBoard.runtimeconfig.json
+C:\Users\ruby\Desktop\практика\WriteBoard\WriteBoard\bin\Debug\netcoreapp3.1\WriteBoard.runtimeconfig.dev.json
+C:\Users\ruby\Desktop\практика\WriteBoard\WriteBoard\bin\Debug\netcoreapp3.1\WriteBoard.dll
+C:\Users\ruby\Desktop\практика\WriteBoard\WriteBoard\bin\Debug\netcoreapp3.1\WriteBoard.pdb
+C:\Users\ruby\Desktop\практика\WriteBoard\WriteBoard\obj\Debug\netcoreapp3.1\WriteBoard.csproj.AssemblyReference.cache
+C:\Users\ruby\Desktop\практика\WriteBoard\WriteBoard\obj\Debug\netcoreapp3.1\WriteBoard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruby\Desktop\практика\WriteBoard\WriteBoard\obj\Debug\netcoreapp3.1\WriteBoard.AssemblyInfoInputs.cache
+C:\Users\ruby\Desktop\практика\WriteBoard\WriteBoard\obj\Debug\netcoreapp3.1\WriteBoard.AssemblyInfo.cs
+C:\Users\ruby\Desktop\практика\WriteBoard\WriteBoard\obj\Debug\netcoreapp3.1\WriteBoard.csproj.CoreCompileInputs.cache
+C:\Users\ruby\Desktop\практика\WriteBoard\WriteBoard\obj\Debug\netcoreapp3.1\WriteBoard.dll
+C:\Users\ruby\Desktop\практика\WriteBoard\WriteBoard\obj\Debug\netcoreapp3.1\WriteBoard.pdb
+C:\Users\ruby\Desktop\практика\WriteBoard\WriteBoard\obj\Debug\netcoreapp3.1\WriteBoard.genruntimeconfig.cache
